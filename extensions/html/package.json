@@ -154,7 +154,7 @@
     }
   },
   "dependencies": {
-    "vscode-extension-telemetry": "0.0.5",
+    "vscode-extension-telemetry": "Microsoft/vscode-extension-telemetry#5dfdb812663332650ba7fdf76fd5e96c4db56d64",
     "vscode-languageclient": "3.0.1-alpha.2",
     "vscode-languageserver-types": "3.0.1-alpha.2",
     "vscode-nls": "^1.0.7"

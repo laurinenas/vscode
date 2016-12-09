@@ -156,6 +156,6 @@
 		"highlight.js": "^9.3.0",
 		"markdown-it": "^6.0.1",
 		"markdown-it-named-headers": "0.0.4",
-		"vscode-extension-telemetry": "^0.0.5"
+		"vscode-extension-telemetry": "Microsoft/vscode-extension-telemetry#5dfdb812663332650ba7fdf76fd5e96c4db56d64"
 	}
 }

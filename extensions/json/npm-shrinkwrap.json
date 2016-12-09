@@ -3,14 +3,14 @@
   "version": "0.1.0",
   "dependencies": {
     "applicationinsights": {
-      "version": "0.15.6",
-      "from": "applicationinsights@0.15.6",
-      "resolved": "https://registry.npmjs.org/applicationinsights/-/applicationinsights-0.15.6.tgz"
+      "version": "0.17.0",
+      "from": "applicationinsights@0.17.0",
+      "resolved": "https://registry.npmjs.org/applicationinsights/-/applicationinsights-0.17.0.tgz"
     },
     "vscode-extension-telemetry": {
       "version": "0.0.5",
-      "from": "vscode-extension-telemetry@>=0.0.5 <0.0.6",
-      "resolved": "https://registry.npmjs.org/vscode-extension-telemetry/-/vscode-extension-telemetry-0.0.5.tgz"
+      "from": "microsoft/vscode-extension-telemetry#5dfdb812663332650ba7fdf76fd5e96c4db56d64",
+      "resolved": "git://github.com/microsoft/vscode-extension-telemetry.git#5dfdb812663332650ba7fdf76fd5e96c4db56d64"
     },
     "vscode-jsonrpc": {
       "version": "3.0.1-alpha.2",
